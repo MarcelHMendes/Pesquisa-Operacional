@@ -4,7 +4,7 @@
 
 ## Getting Started
 
-O primeiro tp consisistiu na implementação do algoritmo para resoluções de problemas de otimização lineares chamado simplex. 
+O primeiro tp consisistiu na implementação do algoritmo para resoluções de problemas de otimização lineares chamado simplex. Para o segundo TP foi feito uma modelagem de um problema de programação inteira, foi resolvido no software GLPK.
 
 ### Prerequisites
 
